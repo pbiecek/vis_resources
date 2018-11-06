@@ -39,3 +39,6 @@ IEEE VIS
 
 ## Tools
 
+### 2018
+
+* [DRX-VIS](https://sites.google.com/view/dxr-vis); DXR is a toolkit for rapidly prototyping Data visualizations in XR (augmented, mixed, and virtual reality). A visualization in DXR is a collection of Unity game objects whose properties  such as position, color, and size are mapped to data attributes. This mapping can be specified interactively at runtime via a graphical user interface (GUI) or via a high-level programming interface, inspired by Polestar and Vega-Lite, respectively. DXR is extensible, allowing the use of most Unity game objects for custom marks and channels. To learn more, check out the top navigation bar or the following links:
