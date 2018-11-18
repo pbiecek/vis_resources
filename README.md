@@ -70,6 +70,10 @@ IEEE VIS
 
 * [DVQA: Understanding Data Visualizations via Question Answering](https://arxiv.org/pdf/1801.08163.pdf); Kushal Kafle, Brian Price, Scott Cohen, Christopher Kanan; Bar charts are an effective way to convey numeric information, but today’s algorithms cannot parse them. Existing methods fail when faced with even minor variations in appearance. Here, we present DVQA, a dataset that tests many aspects of bar chart understanding in a question answering framework. Unlike visual question answering (VQA), DVQA requires processing words and answers that are unique to a particular bar chart.
 
+### 2010
+
+* [Graphical Inference for Infovis](http://jonathanstray.com/papers/wickham.pdf); Hadley Wickham, Dianne Cook, Heike Hofmann, and Andreas Buja; How do we know if what we see is really there? When visualizing data, how do we avoid falling into the trap of apophenia where we see patterns in random noise? Traditionally, infovis has been concerned with discovering new relationships, and statistics with preventing spurious relationships from being reported. We pull these opposing poles closer with two new techniques for rigorous statistical inference of visual discoveries. The “Rorschach” helps the analyst calibrate their understanding of uncertainty and the "lineup" provides a protocol for assessing the significance of visual discoveries, protecting against the discovery of spurious structure.
+
 
 ## Talks
 
