@@ -71,6 +71,12 @@ IEEE VIS
 * [DVQA: Understanding Data Visualizations via Question Answering](https://arxiv.org/pdf/1801.08163.pdf); Kushal Kafle, Brian Price, Scott Cohen, Christopher Kanan; Bar charts are an effective way to convey numeric information, but today’s algorithms cannot parse them. Existing methods fail when faced with even minor variations in appearance. Here, we present DVQA, a dataset that tests many aspects of bar chart understanding in a question answering framework. Unlike visual question answering (VQA), DVQA requires processing words and answers that are unique to a particular bar chart.
 
 
+## Talks
+
+### 2018
+
+* [Human vs computer: when visualising data, who wins?](https://www.dicook.org/files/belz-cook/#1); Di Cook; Statistical inference with graphics, follows classical hypothesis testing procedures; Lineup protocol embeds the data plot among a field of null plots (comparison of test statistic with sampling distribution); Human observers pick plot that is most different from the others; P-value calculated from the probability that the data plot is selected by chance
+
 
 
 ## Books
