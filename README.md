@@ -5,6 +5,8 @@
 
 ### 2018
 
+* [Ensemble Graphics](https://www.tandfonline.com/doi/abs/10.1080/10618600.2017.1383264?journalCode=ucgs20); Antony Unwin, Pedro Valero-Mora; One graphic can convey a lot of information and several graphics linked together in a coherent ensemble can convey even more. This article describes the principles underlying ensemble graphics, their key dimensions, and where they are of most use. Ensemble graphics must have strong common themes and carefully constructed layouts. Appropriate interactive tools are important. Ensembles can be used flexibly for EDA or in a more structured fashion for supporting modeling and for presentations.
+
 *Journal of Imaging Science and Technology* Electronic Imaging, Visualization and Data Analysis 2018
 
 * [RetainVis: Visual Analytics with Interpretable and Interactive Recurrent Neural Networks on Electronic Medical Records](https://arxiv.org/pdf/1805.10724.pdf); Bum Chul Kwon, Min-Je Choi, Joanne Taery Kim, Edward Choi, Young Bin Kim, Soonwook Kwon, Jimeng Sun, and Jaegul Choo;  Despite the strong performance of RNNs, it is often challenging for users to understand why the model makes a
